@@ -138,5 +138,77 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void SigBtnPush(View view){
+        updateText("sin(");
+
+    }
+
+
+    public void CosnBtnPush(View view){
+        updateText("cos(");
+    }
+
+    public void TanBtnPush(View view){
+        updateText("tan(");
+    }
+
+
+
+    public void ArcSignBtnPush(View view){
+        updateText("arcsin(");
+
+    }
+
+    public void ArcCosBtnPush(View view){
+        updateText("arccos(");
+    }
+
+    public void ArctanBtnPush(View view){
+        updateText("arctan(");
+    }
+
+    public void LogBtnPush(View view){
+        updateText("log(");
+    }
+
+    public void NaturalLogBtnPush(View view){
+        updateText("ln(");
+    }
+
+    public void SquarRootBtnPush(View view){
+        updateText("sqrt(");
+
+    }
+
+    public void EBtnPush(View view){
+        updateText("e(");
+
+    }
+
+    public void PiBtnPush(View view){
+        updateText("pi(");
+
+    }
+
+    public void AsoluteBtnPush(View view){
+        updateText("abs(");
+
+    }
+
+    public void PrimeBtnPush(View view){
+        updateText("ispr(");
+
+
+    }
+
+    public void XrootBtnPush(View view){
+        updateText("^(2)");
+
+    }
+
+    public void YrootBtnPush(View view){
+        updateText("^(");
+
+    }
 
 }

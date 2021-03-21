@@ -1,4 +1,42 @@
 <resources>
     <string name="app_name">Tara</string>
     <string name="multifyTxt"> x  </string>
+
+    <string name="SignTxt">sin</string>
+    <string name="CosTxt">cos</string>
+    <string name="TanTxt">tan</string>
+    <string name="ArcSignTxt"> sin<sup><small>-1</small></sup> </string>
+    <string name="ArcCosTxt">cos<sup><small>-1</small></sup> </string>
+    <string name="ArcTanTxt"> tan<sup><small>-1</small></sup> </string>
+    <string name="naturallogTxt">ln</string>
+    <string name="LogTxt">log</string>
+    <string name="SquarRootTxt"> √ </string>
+    <string name="AbsolutevalueText">|x|</string>
+    <string name="piTxt">π</string>
+    <string name="eTxt">e</string>
+    <string name="xquarRootTxt"> x<sup><small>2</small></sup> </string>
+    <string name="xPowerYtext"> x<sup><small>y</small></sup> </string>
+    <string name="primefuction">prime</string>
+
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="equal">=</string>
+    <string name="dot">.</string>
+    <string name="c">C</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+    <string name="divde">/</string>
+    <string name="multify">X</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+
+
 </resources>
